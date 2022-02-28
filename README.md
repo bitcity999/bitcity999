@@ -1,10 +1,13 @@
 
 ![bitc](https://user-images.githubusercontent.com/100100922/156051109-4a59dcbe-d8d0-4d51-a329-74ee9fe0c986.png) 
 
--  👋 Hi, I’m @bitcity999
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning js & css 
+-  👋 Hi, I’m Prakhar Vohra from @bitcity999
+ 
+ I'm a proffesional Web Developer (Front-End)
+ currently I'm learning Python
+ 
 - 💞️ I’m looking to collaborate on web development
+
 - 📫 contact me at bitcity999@gmail.com
 
 <!---
