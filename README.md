@@ -1,4 +1,4 @@
-<image src="https://user-images.githubusercontent.com/100100922/156051109-4a59dcbe-d8d0-4d51-a329-74ee9fe0c986.png" alt="Bitcity" style="width:90%; height:300px; float;center;>
+<img src="bitcity.png" alt="Bitcity" style="width:90%; height:300px; float;center;>
  <h1>👋 Hi, I’m Prakhar Vohra from @bitcity999</h1>                                                                                   
 <h2>I'm a proffesional Web Developer (Front-End)<br>
 Currently I'm learning Python</h2>
