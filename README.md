@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/100100922/156054537-663f0e35-144e-4b64-9ae4-4bc76b6f4ca7.png" alt="Bitcity" style="width:60%; height:300px;">
  <h1>👋 Hi, I’m Prakhar Vohra from @bitcity999</h1>                                                                                   
 <h2>I'm a proffesional Web Developer (Full-stack) & Graphic designer<br>
-Currently I'm learning Python</h2>
+Currently I'm learning C#</h2>
 <ul><li>💞️ I’m looking to collaborate on web development </li>
 <li>📫 contact me at bitcity999@gmail.com</li></ul>
 <!--
